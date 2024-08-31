@@ -5,7 +5,7 @@ Hey, welcome! To the gallery source code!
 
 # Terms and Conditions for Uploading an Extension
 
-By uploading an extension to our platform, you agree to the following terms and conditions:
+By uploading an extension to our gallery, you agree to the following terms and conditions:
 
 1.Compliance: Your extension must comply with TurboWarp and PenguinMod policies.
 
