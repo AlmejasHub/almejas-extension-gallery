@@ -1,7 +1,3 @@
-/*
-   This extension was made with TurboBuilder!
-   https://turbobuilder-steel.vercel.app/
-*/
 (async function(Scratch) {
     const variables = {};
     const blocks = [];
