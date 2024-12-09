@@ -138,15 +138,14 @@ button:hover {
         .send_ext:hover {
             transform: scale(1.1);
         }
-.centrado-inferior {
+.credits {
             position: fixed;
             bottom: 0;
             width: 100%;
             display: flex;
             justify-content: center;
         }
-        .centrado-inferior p {
+        .credits p {
             margin: 0;
             padding: 20px;
-            background-color: lightgray;
         }
